@@ -1,0 +1,147 @@
+
+
+img{margin-top: 20px;
+    border-radius: 50px;
+    border: 10px solid black;
+
+}
+header{background-color: red;
+       border: 10px solid black;
+       border-top-left-radius:50px;
+       border-top-right-radius:50px;
+       width: 1550px;
+       text-align: center;
+       font-size: larger;
+       
+       
+}
+
+   
+
+
+#principal{position: relative;
+           border:10px solid black;
+           border-bottom-left-radius: 50px;
+           border-bottom-right-radius: 50px;
+           text-align: center;
+           height: 800px;
+           width: 1550px;
+           margin-top: 10px;
+           background-color: red;
+                      
+}
+
+.rice{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left: 10px;
+       left: 0px;
+       margin:50px 80px;
+       background-color: yellow;
+       border-radius: 20px;
+}
+ .rice:hover{
+    transform: skewX(10deg)
+}
+.beans{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left: 10px;
+       left:450px;
+       margin-top:50px;
+       margin-left: 120px;
+       background-color: yellow;
+       border-radius: 20px;
+}
+  .beans:hover{
+    transform: skewX(10deg)
+}
+.meat{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left:  100px;
+       margin-top: 50px;
+       right: 100px;
+       background-color: yellow;
+       border-radius: 20px;
+}
+ .meat:hover{
+    transform: skewX(10deg)
+}
+
+
+.fa{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left: 10px;
+       left: 0px;
+       margin:50px 80px;
+       background-color: yellow;
+       border-radius: 20px;
+       top:350px;
+}
+ .fa:hover{
+    transform: skewX(10deg)
+}
+
+.fs{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left: 10px;
+       left:450px;
+       margin-top:50px;
+       margin-left: 120px;
+       background-color: yellow;
+       border-radius: 20px;
+       top:350px;
+}
+ .fs:hover{
+    transform: skewX(10deg)
+}
+
+.fd{ position: absolute;
+       border: 10px solid black;
+       height: 320px;
+       width: 400px;
+       margin-left:  100px;
+       margin-top: 50px;
+       right: 100px;
+       background-color: yellow;
+       border-radius: 20px;
+       top:350px;
+}
+ .fd:hover{
+    transform: skewX(10deg)
+}
+.next{position: absolute;
+    top:750px;
+    left: 790px;
+    font-size: 30px;
+}
+button{
+    font-size: large;
+}
+.next{
+    position: absolute;
+    border:solid black 10px;
+    border-radius: 30px;
+    height: 100px;
+    width: 1540px;
+    top: 820px;
+    left:0px;
+    font-size: 18px;
+}
+.menu{
+    font-size: 30px;
+    color:white;
+}
+.menup{
+    font-size: x-large;
+    color:black;
+
+}

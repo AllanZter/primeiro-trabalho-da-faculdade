@@ -1,0 +1,97 @@
+img{
+    margin-top: 20px;
+    border-radius: 50px;
+    border: 10px solid black;
+    height: 200px;
+
+}
+header{background-color: red;
+       border: 10px solid black;
+       border-top-left-radius:50px;
+       border-top-right-radius:50px;
+       text-align: center;
+       width: 1550px;
+       
+       
+}
+a{
+    color: white;
+}
+#principal{position: relative;
+    border:10px solid black;
+ 
+    text-align: center;
+    height: 800px;
+    width: 1550px;
+    margin-top: 10px;
+    background-color: red;
+               
+}
+#footer{
+    position: absolute;
+    border:solid black 10px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 100px;
+    width: 1550px;
+    top: 810px;
+    left: -40px;
+    font-size: 18px;
+    text-align: center;
+}
+#tab{
+    position: absolute;
+    width: 1500px;
+    height: 400px;
+    left:25px;
+    top:100px
+}
+#botao{
+    position: absolute;
+    text-align: left;
+    top:20px;
+    left:30px;
+}
+
+
+button{
+    font-size: large;
+    background-color: orange;
+}
+#pratos{
+    position: absolute;
+    background-color: yellow;
+    border: solid black 2px;
+    width: 300px;
+    top:0px;
+    left: 0px;
+    font-size: 48px;
+}
+#precos{
+    position: absolute;
+    background-color: yellow;
+    border: solid black 2px;
+    width: 300px;
+    top:0px;
+    left: 298px;
+    font-size: 48px;
+}
+#vtotal{
+    position: absolute;
+    background-color: yellow;
+    border: solid black 2px;
+    width: 600px;
+    top: 380px;
+    left: -2px;
+    font-size: 48px;
+    text-align: center;
+}
+#fundo{
+    position: absolute;
+    background-color: yellow;
+    border: solid black 2px;
+    width: 600px;
+    height: 380px;
+    top: 30px;
+    left: 510px;
+}

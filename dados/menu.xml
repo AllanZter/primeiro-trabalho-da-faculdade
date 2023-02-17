@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <menu>
+        <opcao >Menu</opcao>
+        <produtos link="">Produtos</produtos>
+        <carrinho link="carrinho.html">Carrinho</carrinho>
+    </menu>
+
+
